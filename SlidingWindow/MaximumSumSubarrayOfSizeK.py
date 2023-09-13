@@ -39,3 +39,9 @@ def main():
   print("Maximum sum of a subarray of size K: " + str(max_sub_array_of_size_k(2, [2, 3, 4, 1, 5])))
 
 main()
+
+# Time Complexity
+# The time complexity of the above algorithm will be O(N)
+
+# Space Complexity
+# The algorithm runs in constant space O(1)
